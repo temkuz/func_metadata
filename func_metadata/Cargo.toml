@@ -1,0 +1,8 @@
+[package]
+name = "func_metadata"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+func_proc = { path = "../func_proc" } 
+func_struct = { path = "../func_struct" } 
